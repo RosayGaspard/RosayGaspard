@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Gaspard.<br><br>I'm a senior developer with a strong background in creating video games, web applications, websites & mobile applications.<br><br>I'm currently lead developer and IT manager at the Fédération romande des consommateurs.<br><br>On my free time, I'm creating awesome games with Dahu Studios.
+Hello, I'm Gaspard.<br><br>I'm a senior developer with a strong background in creating video games, web applications, websites & mobile applications.<br><br>I'm currently lead developer and IT manager at the Fédération romande des consommateurs.<br><br>On my free time, I create awesome video games. The game I'm currently working on Project Zeta.
 
 
 # 💻 Tech Stack:
