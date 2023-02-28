@@ -2,7 +2,7 @@
 
 Hello, it's a pleasure to meet you!
 
-My name is Gaspard, and I'm a *senior full stack developer* with a proven track record of creating engaging *video games*, innovative *web applications*, stunning *websites*, and powerful *mobile applications*. With my passion for technology and my years of experience in the field, I have developed a deep understanding of the intricacies of software development and how to create solutions that meet the needs of diverse audiences.
+My name is Gaspard, and I'm a **senior full stack developer** with a proven track record of creating engaging **video games**, innovative **web applications**, stunning **websites**, and powerful **mobile applications**. With my passion for technology and my years of experience in the field, I have developed a deep understanding of the intricacies of software development and how to create solutions that meet the needs of diverse audiences.
 
 Currently full stack developer and IT manager at the [Fédération romande des consommateurs](https://www.frc.ch).
 
